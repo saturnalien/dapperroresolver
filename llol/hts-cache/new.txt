@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:10:43	158/158	---M-Z	200	added ('OK')	text/plain	etag:%22753230-1744749117;gz%22	http://elifemate.com/robots.txt		(from )
+11:10:43	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2020%20Apr%202025%2018:10:44%20GMT	http://elifemate.com/	C:/My%20Web%20Sites/llol/elifemate.com/index.html	(from )

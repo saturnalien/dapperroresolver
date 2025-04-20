@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fbht-group.co	TRUE	/	FALSE	1999999999	PHPSESSID	65sub688he01b213fbrisssqa6
+
